@@ -1,2 +1,1 @@
-# bootstrap-npm-package-publish
-a bootstrap for npm package publishing.
+This is a boilerplate help to pubslih react component based npm package.
